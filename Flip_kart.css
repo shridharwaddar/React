@@ -1,0 +1,47 @@
+.Flip_kart{
+    border: 2px solid blue;
+    height: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: blue;
+
+}
+.Flip_logo {
+    display: flex;
+    justify-content: space-around;
+    
+
+    align-items: center;
+    padding: 40px;
+}
+.Flip_logo img{
+    height: 85px;
+}
+.Flip_logo input{
+    margin-left: 10px;
+    padding: 10px;
+    width: 300px;
+}
+.Flip_login button{
+    width: 110px;
+    height: 36px;
+    font-size: 20px;
+    color:blue;
+    background-color: white;
+}
+.Flip_menu ul {
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.Flip_menu ul li{
+    list-style: none;
+    font-size: 20px;
+    color: white;
+}
+.Flip_menu ul li select option{
+    font-size: 20px;
+}
